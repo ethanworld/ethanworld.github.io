@@ -6,8 +6,8 @@ import {
 // .vuepress/config.js
 console.log(Sidebar)
 module.exports = {
-  title: '',
-  description: '伊森沃德个人博客',
+  title: '伊森沃德·博客',
+  description: '操作系统/编译原理/软件架构',
   base: "/",
   head: [
       ['link', { rel: 'icon', href: '/statics/icon.png' }]
@@ -15,6 +15,8 @@ module.exports = {
   themeConfig: {
     logo: '/statics/logo.png',
     sidebarDepth: 2,
+    smoothScroll: true,
+    lastUpdated: '上次更新',
     displayAllHeaders: true,
     activeHeaderLinks: true,
     nav: Navbar,
