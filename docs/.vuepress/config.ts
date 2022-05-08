@@ -6,14 +6,14 @@ import {
 // .vuepress/config.js
 console.log(Sidebar)
 module.exports = {
-  title: 'JVM.run',
+  title: '',
   description: '伊森沃德个人博客',
   base: "/",
   head: [
-      ['link', { rel: 'icon', href: '/logo.png' }]
+      ['link', { rel: 'icon', href: '/statics/icon.png' }]
   ],
   themeConfig: {
-    logo: '/statics/logo.jpg',
+    logo: '/statics/logo.png',
     sidebarDepth: 2,
     displayAllHeaders: true,
     activeHeaderLinks: true,
