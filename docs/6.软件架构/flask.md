@@ -1,6 +1,8 @@
 ![image-20220105235151287](https://cdn.jsdelivr.net/gh/ethanworld/images@main/202201052351332.png)
 
-# WSGI
+# Flask
+
+## WSGI
 
 WSGI，全称 Web Server Gateway Interface，或者 Python Web Server Gateway Interface ，是基于 Python 定义的 Web 服务器和 Web 应用程序或框架之间的一种简单而通用的接口。
 
@@ -91,7 +93,9 @@ def __call__(self, environ, start_response):
     return self.wsgi_app(environ, start_response)
 ```
 
-# WerkZeug
+
+
+## WerkZeug
 
 Werkzeug是一个WSGI工具包。WSGI是一个web应用和服务器通信的协议，web应用可以通过WSGI一起工作。一个基本的”Hello World”WSGI应用看起来是这样的:
 
@@ -113,9 +117,11 @@ from werkzeug.wrappers import Response
     return response(environ, start_response)
 ```
 
-# 路由
 
-## 注册路由
+
+## 路由
+
+### 注册路由
 
 flassk路由的作用是为不同的HTTP URL注册不同的视图函数，框架提供了两种注册路由的方式：
 
@@ -163,7 +169,7 @@ def add_url_rule(
 
 
 
-## Endpoint
+### Endpoint
 
 需s要注意的是， 框架中请求任务的分发并不是直接从用户请求的URL一步定位到视图函数， 两者之间还隔着一个访问点endpoint。Flask内部使用两张表维护路由：
 
@@ -216,7 +222,7 @@ def endpoint(self, endpoint: str) -> t.Callable:
 
 
 
-## 静态目录路由
+### 静态目录路由
 
 关s于静态目录路由的配置方式也有两种：
 
@@ -248,7 +254,9 @@ app = Flask(name,static_folder='/var/www/static') // 绝对路径
 app = Flask(name,static_folder='assets',static_url_path='/assets') 
 ```
 
-# 启动过程
+
+
+## 启动过程
 
 以如下flask程序介绍框中整体流程。
 
@@ -269,11 +277,13 @@ if __name__ == '__main__':
     app.run()
 ```
 
-## 时序图
+
+
+### 时序图
 
 ![Flask时序交互](https://cdn.jsdelivr.net/gh/ethanworld/images@main/Flask%E6%97%B6%E5%BA%8F%E4%BA%A4%E4%BA%92.jpg)
 
-## 服务器
+### 服务器
 
 werkzeug中BaseWSGIServer类继承自Python自带http模块实现服务端：
 
@@ -308,7 +318,9 @@ def serve_forever(self, poll_interval=0.5):
         self.__is_shut_down.set()
 ```
 
-# 参考资料
+
+
+## 参考资料
 
 - **[WSGI协议及werkzeug-实践篇](https://zhuanlan.zhihu.com/p/161512795)**
 - [Flask WEB开发100问](https://www.zhihu.com/column/flaskquestions)
