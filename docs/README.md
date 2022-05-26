@@ -14,12 +14,3 @@ footer: less is more | Copyright © 2022 伊森沃德
 ---
 
 
-
-## 技能
-
-- 编译原理
-- 编程语言
-  - Java，C
-  - Python
-- 操作系统
-- 
