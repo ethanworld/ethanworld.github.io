@@ -10,8 +10,16 @@ features:
   details: 华为技术有限公司
 - title: 联系方式
   details: 742643715@qq.com
-footer: 学无止境 | Copyright © 2022 伊森沃德
+footer: less is more | Copyright © 2022 伊森沃德
 ---
 
 
 
+## 技能
+
+- 编译原理
+- 编程语言
+  - Java，C
+  - Python
+- 操作系统
+- 
