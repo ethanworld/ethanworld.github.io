@@ -70,4 +70,4 @@ struct _typeobject {
 - [教你阅读 Cpython 的源码（一）](https://zhuanlan.zhihu.com/p/79656976)
 - [Python 源码学习：编译器和虚拟机](https://zhuanlan.zhihu.com/p/375323851)
 - [深入理解python虚拟机](https://nanguage.gitbook.io/inside-python-vm-cn/)
-- 
+- [cpython 源码概览](https://blog.runc.dev/2018/10/06/py-source/)
