@@ -6,7 +6,7 @@ import {
 // .vuepress/config.js
 console.log(Sidebar)
 module.exports = {
-  title: '伊森沃德·博客',
+  title: '程序员的极简生活',
   description: '操作系统/编译原理/软件架构',
   base: "/",
   head: [
