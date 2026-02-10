@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://risc.life/%E5%86%85%E6%A0%B8/</loc>
+         <loc>https://risc.life/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
@@ -9,83 +9,87 @@
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/GDB/</loc>
+         <loc>https://risc.life/kernal/GDB/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/GIT/</loc>
+         <loc>https://risc.life/kernal/GIT/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/ISA/</loc>
+         <loc>https://risc.life/kernal/ISA/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/Shell/</loc>
+         <loc>https://risc.life/kernal/Shell/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/docker/</loc>
+         <loc>https://risc.life/kernal/docker/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/gem5/</loc>
+         <loc>https://risc.life/kernal/gem5/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/qemu/</loc>
+         <loc>https://risc.life/kernal/qemu/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/Zookeeper%E4%BB%8B%E7%BB%8D/</loc>
+         <loc>https://risc.life/kernal/%E5%86%85%E6%A0%B8/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/raft-zh_cn/</loc>
+         <loc>https://risc.life/kernal/%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E4%BA%91%E5%8E%9F%E7%94%9F/</loc>
+         <loc>https://risc.life/system/DNS%E5%8D%8F%E8%AE%AE/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E5%88%86%E5%B8%83%E5%BC%8F%E4%B8%80%E8%87%B4%E6%80%A7%E7%AE%97%E6%B3%95/</loc>
+         <loc>https://risc.life/system/HTTP%E5%8D%8F%E8%AE%AE/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</loc>
+         <loc>https://risc.life/system/NAT%E5%8D%8F%E8%AE%AE/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/DNS%E5%8D%8F%E8%AE%AE/</loc>
+         <loc>https://risc.life/system/Nginx/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/HTTP%E5%8D%8F%E8%AE%AE/</loc>
+         <loc>https://risc.life/system/TCP%E5%8D%8F%E8%AE%AE/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/NAT%E5%8D%8F%E8%AE%AE/</loc>
+         <loc>https://risc.life/system/Zookeeper%E4%BB%8B%E7%BB%8D/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/Nginx/</loc>
+         <loc>https://risc.life/system/flask/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/TCP%E5%8D%8F%E8%AE%AE/</loc>
+         <loc>https://risc.life/system/raft-zh_cn/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/flask/</loc>
+         <loc>https://risc.life/system/%E4%BA%91%E5%8E%9F%E7%94%9F/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/%E5%8D%8F%E8%AE%AE%E5%A4%A7%E7%BA%B2/</loc>
+         <loc>https://risc.life/system/%E5%88%86%E5%B8%83%E5%BC%8F%E4%B8%80%E8%87%B4%E6%80%A7%E7%AE%97%E6%B3%95/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/%E8%AE%A4%E8%AF%81%E5%8D%8F%E8%AE%AE/</loc>
+         <loc>https://risc.life/system/%E5%8D%8F%E8%AE%AE%E5%A4%A7%E7%BA%B2/</loc>
+         <lastmod>2026-02-10</lastmod>
+    </url>
+    <url>
+         <loc>https://risc.life/system/%E8%AE%A4%E8%AF%81%E5%8D%8F%E8%AE%AE/</loc>
          <lastmod>2026-02-10</lastmod>
     </url>
 </urlset>
