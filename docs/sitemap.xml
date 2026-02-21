@@ -13,10 +13,6 @@
          <lastmod>2026-02-21</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/blog/</loc>
-         <lastmod>2026-02-21</lastmod>
-    </url>
-    <url>
          <loc>https://risc.life/design/DNS%E5%8D%8F%E8%AE%AE/</loc>
          <lastmod>2026-02-21</lastmod>
     </url>
@@ -41,7 +37,15 @@
          <lastmod>2026-02-21</lastmod>
     </url>
     <url>
+         <loc>https://risc.life/design/gdb/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
          <loc>https://risc.life/design/git/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
+         <loc>https://risc.life/design/jvm/</loc>
          <lastmod>2026-02-21</lastmod>
     </url>
     <url>
@@ -65,19 +69,35 @@
          <lastmod>2026-02-21</lastmod>
     </url>
     <url>
+         <loc>https://risc.life/framework/docker/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
          <loc>https://risc.life/framework/flask/</loc>
          <lastmod>2026-02-21</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/ISA/</loc>
+         <loc>https://risc.life/framework/gem5/</loc>
          <lastmod>2026-02-21</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/Shell/</loc>
+         <loc>https://risc.life/framework/k8s/</loc>
          <lastmod>2026-02-21</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/docker/</loc>
+         <loc>https://risc.life/framework/nginx/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
+         <loc>https://risc.life/framework/qemu/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
+         <loc>https://risc.life/kernal/device-management/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
+         <loc>https://risc.life/kernal/elf/</loc>
          <lastmod>2026-02-21</lastmod>
     </url>
     <url>
@@ -85,15 +105,27 @@
          <lastmod>2026-02-21</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/gdb/</loc>
+         <loc>https://risc.life/kernal/isa/</loc>
          <lastmod>2026-02-21</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/gem5/</loc>
+         <loc>https://risc.life/kernal/linux/</loc>
          <lastmod>2026-02-21</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/qemu/</loc>
+         <loc>https://risc.life/kernal/memory-management/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
+         <loc>https://risc.life/kernal/networking/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
+         <loc>https://risc.life/kernal/process-management/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
+         <loc>https://risc.life/kernal/shell/</loc>
          <lastmod>2026-02-21</lastmod>
     </url>
     <url>
