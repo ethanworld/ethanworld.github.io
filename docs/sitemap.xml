@@ -2,98 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://risc.life/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/about/who/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <loc>https://risc.life/about/database/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
+         <loc>https://risc.life/about/intro/</loc>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/blog/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/kernal/ISA/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/kernal/Shell/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/kernal/docker/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
+         <loc>https://risc.life/kernal/filesystem/</loc>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/kernal/gdb/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/kernal/gem5/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/kernal/qemu/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/kernal/%E5%86%85%E6%A0%B8/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/kernal/%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/system/DNS%E5%8D%8F%E8%AE%AE/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/system/HTTP%E5%8D%8F%E8%AE%AE/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/system/NAT%E5%8D%8F%E8%AE%AE/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/system/Nginx/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/system/TCP%E5%8D%8F%E8%AE%AE/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/system/Zookeeper%E4%BB%8B%E7%BB%8D/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/system/flask/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/system/git/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/system/raft-zh_cn/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/system/%E4%BA%91%E5%8E%9F%E7%94%9F/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/system/%E5%88%86%E5%B8%83%E5%BC%8F%E4%B8%80%E8%87%B4%E6%80%A7%E7%AE%97%E6%B3%95/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/system/%E5%8D%8F%E8%AE%AE%E5%A4%A7%E7%BA%B2/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
     <url>
          <loc>https://risc.life/system/%E8%AE%A4%E8%AF%81%E5%8D%8F%E8%AE%AE/</loc>
-         <lastmod>2026-02-19</lastmod>
+         <lastmod>2026-02-21</lastmod>
     </url>
 </urlset>
