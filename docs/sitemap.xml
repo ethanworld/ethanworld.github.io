@@ -17,6 +17,10 @@
          <lastmod>2026-02-21</lastmod>
     </url>
     <url>
+         <loc>https://risc.life/framework/flask/</loc>
+         <lastmod>2026-02-21</lastmod>
+    </url>
+    <url>
          <loc>https://risc.life/kernal/ISA/</loc>
          <lastmod>2026-02-21</lastmod>
     </url>
@@ -74,10 +78,6 @@
     </url>
     <url>
          <loc>https://risc.life/system/Zookeeper%E4%BB%8B%E7%BB%8D/</loc>
-         <lastmod>2026-02-21</lastmod>
-    </url>
-    <url>
-         <loc>https://risc.life/system/flask/</loc>
          <lastmod>2026-02-21</lastmod>
     </url>
     <url>
