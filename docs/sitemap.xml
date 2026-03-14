@@ -133,6 +133,10 @@
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
+         <loc>https://risc.life/kernal/kernal-intro/</loc>
+         <lastmod>2026-03-14</lastmod>
+    </url>
+    <url>
          <loc>https://risc.life/kernal/kernal-memory-management/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
@@ -146,10 +150,6 @@
     </url>
     <url>
          <loc>https://risc.life/kernal/kernal-shell/</loc>
-         <lastmod>2026-03-14</lastmod>
-    </url>
-    <url>
-         <loc>https://risc.life/kernal/kernal/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
