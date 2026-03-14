@@ -101,15 +101,7 @@
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/device-management/</loc>
-         <lastmod>2026-03-14</lastmod>
-    </url>
-    <url>
-         <loc>https://risc.life/kernal/elf/</loc>
-         <lastmod>2026-03-14</lastmod>
-    </url>
-    <url>
-         <loc>https://risc.life/kernal/filesystem/</loc>
+         <loc>https://risc.life/kernal/cpu-isa/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
@@ -129,31 +121,35 @@
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/isa/</loc>
+         <loc>https://risc.life/kernal/kernal-device-management/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/linux/</loc>
+         <loc>https://risc.life/kernal/kernal-elf/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/memory-management/</loc>
+         <loc>https://risc.life/kernal/kernal-filesystem/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/networking/</loc>
+         <loc>https://risc.life/kernal/kernal-memory-management/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/process-management/</loc>
+         <loc>https://risc.life/kernal/kernal-networking/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/shell/</loc>
+         <loc>https://risc.life/kernal/kernal-process-management/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/%E5%86%85%E6%A0%B8/</loc>
+         <loc>https://risc.life/kernal/kernal-shell/</loc>
+         <lastmod>2026-03-14</lastmod>
+    </url>
+    <url>
+         <loc>https://risc.life/kernal/kernal/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
