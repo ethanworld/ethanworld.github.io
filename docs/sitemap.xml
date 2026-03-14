@@ -13,6 +13,10 @@
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
+         <loc>https://risc.life/design/C%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83/</loc>
+         <lastmod>2026-03-14</lastmod>
+    </url>
+    <url>
          <loc>https://risc.life/design/DNS%E5%8D%8F%E8%AE%AE/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
@@ -97,7 +101,7 @@
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/C%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83/</loc>
+         <loc>https://risc.life/framework/%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
@@ -105,7 +109,15 @@
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
+         <loc>https://risc.life/kernal/introduce/</loc>
+         <lastmod>2026-03-14</lastmod>
+    </url>
+    <url>
          <loc>https://risc.life/kernal/ipc-msg-queue/</loc>
+         <lastmod>2026-03-14</lastmod>
+    </url>
+    <url>
+         <loc>https://risc.life/kernal/ipc-pipe/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
@@ -121,6 +133,10 @@
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
+         <loc>https://risc.life/kernal/ipc-socket/</loc>
+         <lastmod>2026-03-14</lastmod>
+    </url>
+    <url>
          <loc>https://risc.life/kernal/kernal-device-management/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
@@ -130,10 +146,6 @@
     </url>
     <url>
          <loc>https://risc.life/kernal/kernal-filesystem/</loc>
-         <lastmod>2026-03-14</lastmod>
-    </url>
-    <url>
-         <loc>https://risc.life/kernal/kernal-intro/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
     <url>
@@ -150,10 +162,6 @@
     </url>
     <url>
          <loc>https://risc.life/kernal/kernal-shell/</loc>
-         <lastmod>2026-03-14</lastmod>
-    </url>
-    <url>
-         <loc>https://risc.life/kernal/%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</loc>
          <lastmod>2026-03-14</lastmod>
     </url>
 </urlset>
