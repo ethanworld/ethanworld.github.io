@@ -17,175 +17,175 @@
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/design/C%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83/</loc>
+         <loc>https://risc.life/ai/ai-intro/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/design/DNS%E5%8D%8F%E8%AE%AE/</loc>
+         <loc>https://risc.life/computer/algorithm-leetcode/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/design/HTTP%E5%8D%8F%E8%AE%AE/</loc>
+         <loc>https://risc.life/computer/algorithm-raft/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/design/NAT%E5%8D%8F%E8%AE%AE/</loc>
+         <loc>https://risc.life/computer/cpu-gem5/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/design/Nginx/</loc>
+         <loc>https://risc.life/computer/cpu-isa/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/design/TCP%E5%8D%8F%E8%AE%AE/</loc>
+         <loc>https://risc.life/computer/cpu-qemu/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/design/Zookeeper%E4%BB%8B%E7%BB%8D/</loc>
+         <loc>https://risc.life/computer/device-hdd/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/design/gdb/</loc>
+         <loc>https://risc.life/computer/device-memory/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/design/git/</loc>
+         <loc>https://risc.life/computer/device-ssd/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/design/jvm/</loc>
+         <loc>https://risc.life/computer/environment/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/design/leetcode/</loc>
+         <loc>https://risc.life/computer/framework-docker/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/design/raft-zh_cn/</loc>
+         <loc>https://risc.life/computer/framework-flask/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/design/%E4%BA%91%E5%8E%9F%E7%94%9F/</loc>
+         <loc>https://risc.life/computer/framework-git/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/design/%E5%88%86%E5%B8%83%E5%BC%8F%E4%B8%80%E8%87%B4%E6%80%A7%E7%AE%97%E6%B3%95/</loc>
+         <loc>https://risc.life/computer/framework-k8s/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/design/%E5%8D%8F%E8%AE%AE%E5%A4%A7%E7%BA%B2/</loc>
+         <loc>https://risc.life/computer/framework-nginx/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/design/%E8%AE%A4%E8%AF%81%E5%8D%8F%E8%AE%AE/</loc>
+         <loc>https://risc.life/computer/framework-zookeeper/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/framework/docker/</loc>
+         <loc>https://risc.life/computer/introduce/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/framework/flask/</loc>
+         <loc>https://risc.life/computer/ipc-concurrent/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/framework/gem5/</loc>
+         <loc>https://risc.life/computer/ipc-msg-queue/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/framework/k8s/</loc>
+         <loc>https://risc.life/computer/ipc-pipe/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/framework/nginx/</loc>
+         <loc>https://risc.life/computer/ipc-semaphore/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/framework/qemu/</loc>
+         <loc>https://risc.life/computer/ipc-share-memory/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/framework/%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85/</loc>
+         <loc>https://risc.life/computer/ipc-signal/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/cpu-isa/</loc>
+         <loc>https://risc.life/computer/ipc-socket/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/device-hdd/</loc>
+         <loc>https://risc.life/computer/kernal-device-management/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/device-memory/</loc>
+         <loc>https://risc.life/computer/kernal-elf/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/device-ssd/</loc>
+         <loc>https://risc.life/computer/kernal-filesystem/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/introduce/</loc>
+         <loc>https://risc.life/computer/kernal-interrupt/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/ipc-concurrent/</loc>
+         <loc>https://risc.life/computer/kernal-memory-management/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/ipc-msg-queue/</loc>
+         <loc>https://risc.life/computer/kernal-networking/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/ipc-pipe/</loc>
+         <loc>https://risc.life/computer/kernal-process-management/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/ipc-semaphore/</loc>
+         <loc>https://risc.life/computer/kernal-shell/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/ipc-share-memory/</loc>
+         <loc>https://risc.life/computer/kernel-gdb/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/ipc-signal/</loc>
+         <loc>https://risc.life/computer/language-c/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/ipc-socket/</loc>
+         <loc>https://risc.life/computer/language-jvm/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/kernal-device-management/</loc>
+         <loc>https://risc.life/computer/network-dns/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/kernal-elf/</loc>
+         <loc>https://risc.life/computer/network-http/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/kernal-filesystem/</loc>
+         <loc>https://risc.life/computer/network-intro/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/kernal-interrupt/</loc>
+         <loc>https://risc.life/computer/network-nat/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/kernal-memory-management/</loc>
+         <loc>https://risc.life/computer/network-tcp/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/kernal-networking/</loc>
+         <loc>https://risc.life/world/auto-intro/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/kernal-process-management/</loc>
+         <loc>https://risc.life/world/finance-intro/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/kernal/kernal-shell/</loc>
+         <loc>https://risc.life/world/music-intro/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
 </urlset>
