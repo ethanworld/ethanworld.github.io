@@ -5,15 +5,7 @@
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
-         <loc>https://risc.life/mindmap.mm/</loc>
-         <lastmod>2026-03-23</lastmod>
-    </url>
-    <url>
-         <loc>https://risc.life/about/database/</loc>
-         <lastmod>2026-03-23</lastmod>
-    </url>
-    <url>
-         <loc>https://risc.life/about/intro/</loc>
+         <loc>https://risc.life/mind.mm/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
@@ -174,6 +166,14 @@
     </url>
     <url>
          <loc>https://risc.life/cs/network-tcp/</loc>
+         <lastmod>2026-03-23</lastmod>
+    </url>
+    <url>
+         <loc>https://risc.life/me/database/</loc>
+         <lastmod>2026-03-23</lastmod>
+    </url>
+    <url>
+         <loc>https://risc.life/me/intro/</loc>
          <lastmod>2026-03-23</lastmod>
     </url>
     <url>
